@@ -1,0 +1,2 @@
+# Netlify
+Nuxt.js app
